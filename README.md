@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hirocreeper02
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning js and python
+- 💞️ I’m looking to collaborate on several little games
+- 📫 How to reach me: do not try.
